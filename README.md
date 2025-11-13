@@ -1,11 +1,5 @@
 # 🗂️ FileWrangler
 A powerful and user-friendly desktop utility built with Python to bulk rename and organize thousands of files with ease.
-
-![FileWrangler Home Page](httpsimg-here)  
-*(Hint: Take a screenshot of your app's home page, upload it to your GitHub repository, and replace `img-here` with the image's URL to make it show up here!)*
-
----
-
 FileWrangler is the perfect tool for photographers, office workers, digital archivists, or anyone with a messy "Downloads" folder. It transforms a tedious, manual task into a simple, two-click process.
 
 ## ✨ Key Features
