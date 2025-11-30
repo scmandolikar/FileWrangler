@@ -133,7 +133,7 @@ If you find FileWrangler useful, please consider giving it a star! ⭐
 **Sakshath Mandolikar**
 - Email: scmandolikar@gmail.com
 - GitHub: [@scmandolikar](https://github.com/scmandolikar)
-- LinkedIn: [Sakshath Mandolikar](https://www.linkedin.com/in/sushant-mandolikar-71a519256/)
+- LinkedIn: [Sakshath Mandolikar](https://www.linkedin.com/in/sakshath-mandolikar-8432b8396/)
 
 For bug reports and feature requests, please use the [GitHub Issues](https://github.com/scmandolikar/FileWrangler/issues) page.
 
